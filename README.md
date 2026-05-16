@@ -40,8 +40,3 @@ npm run demo
 
 
 
-
-## Progress Note 10
-
-- 2026-04-14: documented service readiness, implementation progress, and release hygiene for feature-flag-service.
-- Captured validation notes for observability, operational checks, and handoff readiness.
